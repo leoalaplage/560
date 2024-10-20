@@ -1,0 +1,776 @@
+body {
+    --f: 1;
+    min-width: 1200px
+}
+
+@media (max-width: 1199px) {
+    body {
+        min-width:320px
+    }
+}
+
+.v1 {
+    display: inline-block;
+    vertical-align: top
+}
+
+.ps1 {
+    position: relative;
+    margin-top: -752px
+}
+
+.s1 {
+    width: 100%;
+    min-width: 1200px;
+    min-height: 793px
+}
+
+.c1 {
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0
+}
+
+.z1 {
+    z-index: 3;
+    pointer-events: none
+}
+
+.c2 {
+    position: absolute;
+    width: 100%;
+    min-height: 793px;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0
+}
+
+.c3 {
+    position: absolute;
+    border: 0;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    background-color: rgba(0,0,0,0.98)
+}
+
+.s2 {
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box
+}
+
+.ps2 {
+    position: relative;
+    margin-top: -213px
+}
+
+.v2 {
+    display: block
+}
+
+.s3 {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 1135px
+}
+
+.z2 {
+    pointer-events: none
+}
+
+.v3 {
+    display: inline-block;
+    vertical-align: top
+}
+
+.ps3 {
+    position: relative;
+    margin-left: 0;
+    margin-top: 0
+}
+
+.s4 {
+    min-width: 1200px;
+    width: 1200px;
+    min-height: 108px
+}
+
+.z3 {
+    z-index: 26;
+    pointer-events: auto
+}
+
+.v4 {
+    display: inline-block;
+    overflow: hidden;
+    outline: 0
+}
+
+.ps4 {
+    position: relative
+}
+
+.s5 {
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    padding-right: 0
+}
+
+.c5 {
+    border: 0;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    background-color: transparent;
+    color: rgba(0,0,0,0.98);
+    transition: color 0.3s, border-color 0.3s, background-color 0.3s, background-image 0.3s;
+    transition-timing-function: ease
+}
+
+.a1 {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none
+}
+
+.f1 {
+    font-family: "Helvetica Neue", sans-serif;
+    font-size: 70px;
+    font-size: calc(70px * var(--f));
+    line-height: 1.201;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+    text-transform: none;
+    letter-spacing: -5.99px;
+    text-shadow: none;
+    text-indent: 0;
+    text-align: center;
+    cursor: pointer;
+    padding-top: 12px;
+    padding-bottom: 12px
+}
+
+.c5:hover {
+    background-clip: padding-box;
+    border-color: #808080;
+    color: #6c71c4
+}
+
+.c5:active {
+    transition: initial;
+    color: rgba(0,0,0,0.98)
+}
+
+.v5 {
+    display: inline-block;
+    vertical-align: top
+}
+
+.ps5 {
+    position: relative;
+    margin-left: 0;
+    margin-top: 255px
+}
+
+.s6 {
+    min-width: 1200px;
+    width: 1200px;
+    min-height: 772px
+}
+
+.z4 {
+    z-index: 2;
+    pointer-events: auto
+}
+
+.p1 {
+    padding-bottom: 0;
+    text-align: center;
+    text-indent: 0;
+    padding-right: 0
+}
+
+.f2 {
+    font-family: "League Spartan 1";
+    font-size: 300px;
+    font-size: calc(300px * var(--f));
+    line-height: 1.288;
+    font-weight: 200;
+    font-style: normal;
+    text-decoration: none;
+    text-transform: none;
+    letter-spacing: -20.00px;
+    color: rgba(0,0,0,0.98);
+    background-color: initial;
+    text-shadow: none
+}
+
+.f3 {
+    font-family: "Tilt Warp";
+    font-size: 300px;
+    font-size: calc(300px * var(--f));
+    line-height: 1.768;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+    text-transform: none;
+    letter-spacing: -20.00px;
+    color: rgba(0,0,0,0.98);
+    background-color: initial;
+    text-shadow: none
+}
+
+.v6 {
+    display: inline-block;
+    vertical-align: top
+}
+
+.ps6 {
+    position: relative;
+    margin-top: -366px
+}
+
+.s7 {
+    width: 100%;
+    min-width: 1200px;
+    min-height: 522px
+}
+
+.c7 {
+    border: 0;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    background-color: rgba(0,0,0,0.98)
+}
+
+.z5 {
+    z-index: 27;
+    pointer-events: none
+}
+
+.ps7 {
+    position: relative;
+    margin-top: -481px
+}
+
+.v7 {
+    display: block
+}
+
+.s8 {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 325px
+}
+
+.z6 {
+    pointer-events: none
+}
+
+.v8 {
+    display: inline-block;
+    vertical-align: top
+}
+
+.ps8 {
+    position: relative;
+    margin-left: 0;
+    margin-top: 0
+}
+
+.s9 {
+    min-width: 1200px;
+    width: 1200px;
+    min-height: 325px
+}
+
+.z7 {
+    z-index: 28
+}
+
+.v9 {
+    display: inline-block;
+    vertical-align: top
+}
+
+.ps9 {
+    position: relative;
+    margin-left: 0;
+    margin-top: 0
+}
+
+.s10 {
+    min-width: 1200px;
+    width: 1200px;
+    min-height: 325px;
+    line-height: 0
+}
+
+.v10 {
+    display: inline-block;
+    vertical-align: top
+}
+
+.ps10 {
+    position: relative;
+    margin-left: 0;
+    margin-top: 0
+}
+
+.s11 {
+    min-width: 1200px;
+    width: 1200px;
+    overflow: hidden;
+    height: 310px
+}
+
+.z8 {
+    pointer-events: auto
+}
+
+.p2 {
+    text-indent: 0;
+    padding-bottom: 0;
+    padding-right: 0;
+    text-align: left
+}
+
+.f4 {
+    font-family: "League Spartan 3";
+    font-size: 20px;
+    font-size: calc(20px * var(--f));
+    line-height: 1.301;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+    text-transform: none;
+    letter-spacing: normal;
+    color: #fff;
+    background-color: initial;
+    text-shadow: none
+}
+
+.v11 {
+    display: inline-block;
+    vertical-align: top
+}
+
+.ps11 {
+    position: relative;
+    margin-left: 0;
+    margin-top: -15px
+}
+
+.s12 {
+    min-width: 175px;
+    width: 175px;
+    overflow: hidden;
+    height: 30px
+}
+
+.z9 {
+    pointer-events: auto
+}
+
+.p3 {
+    text-indent: 0;
+    padding-bottom: 0;
+    padding-right: 0;
+    text-align: center
+}
+
+.f5 {
+    font-family: "League Spartan 3";
+    font-size: 20px;
+    font-size: calc(20px * var(--f));
+    line-height: 1.301;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+    text-transform: none;
+    letter-spacing: normal;
+    color: #fff;
+    background-color: initial;
+    text-shadow: none
+}
+
+.v12 {
+    display: inline-block;
+    vertical-align: top
+}
+
+.ps12 {
+    position: relative;
+    margin-left: 176px;
+    margin-top: -15px
+}
+
+.s13 {
+    min-width: 175px;
+    width: 175px;
+    overflow: hidden;
+    height: 30px
+}
+
+.z10 {
+    pointer-events: auto
+}
+
+.p4 {
+    text-indent: 0;
+    padding-bottom: 0;
+    padding-right: 0;
+    text-align: center
+}
+
+.f6 {
+    font-family: "League Spartan 3";
+    font-size: 20px;
+    font-size: calc(20px * var(--f));
+    line-height: 1.301;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+    text-transform: none;
+    letter-spacing: normal;
+    color: #fff;
+    background-color: initial;
+    text-shadow: none
+}
+
+.v13 {
+    display: inline-block;
+    vertical-align: top
+}
+
+.ps13 {
+    position: relative;
+    margin-left: 176px;
+    margin-top: -15px
+}
+
+.s14 {
+    min-width: 175px;
+    width: 175px;
+    overflow: hidden;
+    height: 30px
+}
+
+.z11 {
+    pointer-events: auto
+}
+
+.p5 {
+    text-indent: 0;
+    padding-bottom: 0;
+    padding-right: 0;
+    text-align: center
+}
+
+.f7 {
+    font-family: "League Spartan 3";
+    font-size: 20px;
+    font-size: calc(20px * var(--f));
+    line-height: 1.301;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+    text-transform: none;
+    letter-spacing: normal;
+    color: #fff;
+    background-color: initial;
+    text-shadow: none
+}
+
+.v14 {
+    display: inline-block;
+    vertical-align: top
+}
+
+.ps14 {
+    position: relative;
+    margin-left: 148px;
+    margin-top: -15px
+}
+
+.s15 {
+    min-width: 175px;
+    width: 175px;
+    overflow: hidden;
+    height: 30px
+}
+
+.z12 {
+    pointer-events: auto
+}
+
+.p6 {
+    text-indent: 0;
+    padding-bottom: 0;
+    padding-right: 0;
+    text-align: center
+}
+
+.f8 {
+    font-family: "League Spartan 3";
+    font-size: 20px;
+    font-size: calc(20px * var(--f));
+    line-height: 1.301;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+    text-transform: none;
+    letter-spacing: normal;
+    color: #fff;
+    background-color: initial;
+    text-shadow: none
+}
+
+.c13 {
+    display: inline-block;
+    position: relative;
+    margin-left: 0;
+    margin-top: 156px
+}
+
+@media (max-width: 1199px) {
+    .ps1 {
+        margin-top:-474px
+    }
+
+    .s1 {
+        min-width: 320px;
+        min-height: 504px
+    }
+
+    .c2 {
+        min-height: 504px
+    }
+
+    .ps2 {
+        margin-top: -183px
+    }
+
+    .s3 {
+        width: 320px;
+        min-height: 143px
+    }
+
+    .s4 {
+        min-width: 320px;
+        width: 320px;
+        min-height: 71px
+    }
+
+    .f1 {
+        font-size: 26px;
+        font-size: calc(26px * var(--f));
+        line-height: 1.232;
+        letter-spacing: -1.55px;
+        padding-top: 4px;
+        padding-bottom: 3px
+    }
+
+    .ps5 {
+        margin-top: -70px
+    }
+
+    .s6 {
+        min-width: 320px;
+        width: 320px;
+        min-height: 142px
+    }
+
+    .f2 {
+        font-size: 80px;
+        font-size: calc(80px * var(--f));
+        letter-spacing: -5.49px
+    }
+
+    .f3 {
+        font-size: 80px;
+        font-size: calc(80px * var(--f));
+        line-height: 1.763;
+        letter-spacing: -5.49px
+    }
+
+    .ps6 {
+        margin-top: -22px
+    }
+
+    .s7 {
+        min-width: 320px;
+        min-height: 139px
+    }
+
+    .ps7 {
+        margin-top: -129px
+    }
+
+    .s8 {
+        width: 320px;
+        min-height: 87px
+    }
+
+    .s9 {
+        min-width: 320px;
+        width: 320px;
+        min-height: 87px
+    }
+
+    .s10 {
+        min-width: 320px;
+        width: 320px;
+        min-height: 87px
+    }
+
+    .s11 {
+        min-width: 320px;
+        width: 320px;
+        height: 83px
+    }
+
+    .p2 {
+        text-align: justify
+    }
+
+    .f4 {
+        font-size: 5px;
+        font-size: calc(5px * var(--f));
+        line-height: 1.401
+    }
+
+    .ps11 {
+        margin-top: -4px
+    }
+
+    .s12 {
+        min-width: 47px;
+        width: 47px;
+        height: 8px
+    }
+
+    .f5 {
+        font-size: 6px;
+        font-size: calc(6px * var(--f));
+        line-height: 1.334
+    }
+
+    .f5:visited {
+        font-size: 6px;
+        font-size: calc(6px * var(--f));
+        line-height: 1.334
+    }
+
+    .f5:hover {
+        font-size: 6px;
+        font-size: calc(6px * var(--f));
+        line-height: 1.334
+    }
+
+    .f5:active {
+        font-size: 6px;
+        font-size: calc(6px * var(--f));
+        line-height: 1.334
+    }
+
+    .ps12 {
+        margin-left: 47px;
+        margin-top: -4px
+    }
+
+    .s13 {
+        min-width: 47px;
+        width: 47px;
+        height: 8px
+    }
+
+    .f6 {
+        font-size: 6px;
+        font-size: calc(6px * var(--f));
+        line-height: 1.334
+    }
+
+    .ps13 {
+        margin-left: 46px;
+        margin-top: -4px
+    }
+
+    .s14 {
+        min-width: 47px;
+        width: 47px;
+        height: 8px
+    }
+
+    .f7 {
+        font-size: 6px;
+        font-size: calc(6px * var(--f));
+        line-height: 1.334
+    }
+
+    .f7:visited {
+        font-size: 6px;
+        font-size: calc(6px * var(--f));
+        line-height: 1.334
+    }
+
+    .f7:hover {
+        font-size: 6px;
+        font-size: calc(6px * var(--f));
+        line-height: 1.334
+    }
+
+    .f7:active {
+        font-size: 6px;
+        font-size: calc(6px * var(--f));
+        line-height: 1.334
+    }
+
+    .ps14 {
+        margin-left: 39px;
+        margin-top: -4px
+    }
+
+    .s15 {
+        min-width: 47px;
+        width: 47px;
+        height: 8px
+    }
+
+    .f8 {
+        font-size: 6px;
+        font-size: calc(6px * var(--f));
+        line-height: 1.334
+    }
+
+    .f8:visited {
+        font-size: 6px;
+        font-size: calc(6px * var(--f));
+        line-height: 1.334
+    }
+
+    .f8:hover {
+        font-size: 6px;
+        font-size: calc(6px * var(--f));
+        line-height: 1.334
+    }
+
+    .f8:active {
+        font-size: 6px;
+        font-size: calc(6px * var(--f));
+        line-height: 1.334
+    }
+
+    .c13 {
+        margin-top: 42px
+    }
+}
